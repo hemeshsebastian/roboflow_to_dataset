@@ -1,0 +1,7 @@
+apple
+hemesh
+kiwi
+lemon
+orange
+pomegranate
+tomato
